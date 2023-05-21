@@ -42,9 +42,9 @@ $ pip3 install parshu
 ```
 
 ```console
-$ wget -O parshu https://raw.githubusercontent.com/R0X4R/Parshu/main/parshu.py -q && chmod +x parshu && mv parshu /usr/bin/
+$ wget -O parshu https://raw.githubusercontent.com/tucommenceapousser/findit/main/findit.py -q && chmod +x findit && mv findit /usr/bin/
 ```
-
+wget -O parshu https://raw.githubusercontent.com/R0X4R/Parshu/main/parshu.py -q && chmod +x parshu && mv parshu /usr/bin/
 ### Usage
 
 <p align="center"><img src=".github/static/usage-2.png" alt="Parshu usage"></p>
